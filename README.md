@@ -1,4 +1,4 @@
-# Ms. Potts - AI-powered Nutrition Assistant
+# NutriServeAI - AI-powered Nutrition Assistant
 
 ---
 
